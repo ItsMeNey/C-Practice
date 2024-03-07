@@ -1,0 +1,14 @@
+C:\Users\EB-Dev\source\repos\Grades\Grades\bin\Debug\net8.0\Grades.exe
+C:\Users\EB-Dev\source\repos\Grades\Grades\bin\Debug\net8.0\Grades.deps.json
+C:\Users\EB-Dev\source\repos\Grades\Grades\bin\Debug\net8.0\Grades.runtimeconfig.json
+C:\Users\EB-Dev\source\repos\Grades\Grades\bin\Debug\net8.0\Grades.dll
+C:\Users\EB-Dev\source\repos\Grades\Grades\bin\Debug\net8.0\Grades.pdb
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\Grades.AssemblyInfoInputs.cache
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\Grades.AssemblyInfo.cs
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\Grades.csproj.CoreCompileInputs.cache
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\Grades.dll
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\refint\Grades.dll
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\Grades.pdb
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\Grades.genruntimeconfig.cache
+C:\Users\EB-Dev\source\repos\Grades\Grades\obj\Debug\net8.0\ref\Grades.dll

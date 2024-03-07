@@ -1,0 +1,14 @@
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\EB-Dev\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.exe
+C:\Users\EB-Dev\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+C:\Users\EB-Dev\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Users\EB-Dev\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.dll
+C:\Users\EB-Dev\source\repos\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.dll
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Users\EB-Dev\source\repos\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll

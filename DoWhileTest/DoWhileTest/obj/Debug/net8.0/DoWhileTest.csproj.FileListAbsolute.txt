@@ -1,0 +1,14 @@
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\bin\Debug\net8.0\DoWhileTest.exe
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\bin\Debug\net8.0\DoWhileTest.deps.json
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\bin\Debug\net8.0\DoWhileTest.runtimeconfig.json
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\bin\Debug\net8.0\DoWhileTest.dll
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\bin\Debug\net8.0\DoWhileTest.pdb
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\DoWhileTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\DoWhileTest.AssemblyInfoInputs.cache
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\DoWhileTest.AssemblyInfo.cs
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\DoWhileTest.csproj.CoreCompileInputs.cache
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\DoWhileTest.dll
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\refint\DoWhileTest.dll
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\DoWhileTest.pdb
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\DoWhileTest.genruntimeconfig.cache
+C:\Users\EB-Dev\source\repos\DoWhileTest\DoWhileTest\obj\Debug\net8.0\ref\DoWhileTest.dll

@@ -1,0 +1,14 @@
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\bin\Debug\net8.0\Parameters.exe
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\bin\Debug\net8.0\Parameters.deps.json
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\bin\Debug\net8.0\Parameters.runtimeconfig.json
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\bin\Debug\net8.0\Parameters.dll
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\bin\Debug\net8.0\Parameters.pdb
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfoInputs.cache
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfo.cs
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.dll
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\refint\Parameters.dll
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.pdb
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\Parameters.genruntimeconfig.cache
+C:\Users\EB-Dev\source\repos\Parameters\Parameters\obj\Debug\net8.0\ref\Parameters.dll

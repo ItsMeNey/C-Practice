@@ -1,0 +1,139 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = C:\Users\EB-Dev\source\repos\WebApplication1\WebApplication1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\EB-Dev\source\repos\WebApplication1\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/Install/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xJbnN0YWxsXFZpZXdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/Breadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcQnJlYWRjcnVtYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcRWRpdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcRW1wdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcR2FsbGVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListAncestorsFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdEFuY2VzdG9yc0Zyb21DdXJyZW50UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListChildPagesFromChangeableSource.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNGcm9tQ2hhbmdlYWJsZVNvdXJjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListChildPagesFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNGcm9tQ3VycmVudFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNPcmRlcmVkQnlEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNPcmRlcmVkQnlOYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNPcmRlcmVkQnlQcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListChildPagesWithDoctype.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNXaXRoRG9jdHlwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListDescendantsFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdERlc2NlbmRhbnRzRnJvbUN1cnJlbnRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/ListImagesFromMediaFolder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdEltYWdlc0Zyb21NZWRpYUZvbGRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/LoginStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTG9naW5TdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/MultinodeTree-picker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTXVsdGlub2RlVHJlZS1waWNrZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTmF2aWdhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/RegisterMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcUmVnaXN0ZXJNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/PartialViewMacros/Templates/SiteMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcU2l0ZU1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/Views/AuthorizeUpgrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xWaWV3c1xBdXRob3JpemVVcGdyYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/Views/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xWaWV3c1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/umbraco/Views/Preview/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dW1icmFjb1xWaWV3c1xQcmV2aWV3XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/EB-Dev/source/repos/WebApplication1/WebApplication1/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g6ltozs93r

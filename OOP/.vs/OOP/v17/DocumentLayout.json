@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|c:\\users\\eb-dev\\source\\repos\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|c:\\users\\eb-dev\\source\\repos\\oop\\oop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|solutionrelative:oop\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|c:\\users\\eb-dev\\source\\repos\\oop\\oop\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|solutionrelative:oop\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|c:\\users\\eb-dev\\source\\repos\\oop\\oop\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|solutionrelative:oop\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|c:\\users\\eb-dev\\source\\repos\\oop\\oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5014EDC0-FFFD-494D-A7C2-D02AF0A88EFB}|OOP\\OOP.csproj|solutionrelative:oop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Student.cs",
+              "RelativeDocumentMoniker": "OOP\\Student.cs",
+              "ToolTip": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Student.cs",
+              "RelativeToolTip": "OOP\\Student.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvzUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T13:20:25.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Favorites.cs",
+              "DocumentMoniker": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Favorites.cs",
+              "RelativeDocumentMoniker": "OOP\\Favorites.cs",
+              "ToolTip": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Favorites.cs",
+              "RelativeToolTip": "OOP\\Favorites.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:11:23.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Products.cs",
+              "RelativeDocumentMoniker": "OOP\\Products.cs",
+              "ToolTip": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Products.cs",
+              "RelativeToolTip": "OOP\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:10:07.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Person.cs",
+              "RelativeDocumentMoniker": "OOP\\Person.cs",
+              "ToolTip": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Person.cs",
+              "RelativeToolTip": "OOP\\Person.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:52:21.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\EB-Dev\\source\\repos\\OOP\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:50:27.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
